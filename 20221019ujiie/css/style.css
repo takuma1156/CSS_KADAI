@@ -38,6 +38,7 @@ main{
 .blue-box{
   height: 150px;
   width: 60%;
+  bottom: 20%;
   background-color: blue;
 }
 .absolute{
@@ -47,14 +48,15 @@ main{
   right: 0;
 }
 .img img{
-  width: 100%;
+  width: auto;
   height: auto;
+  margin: 0 0 0 0;
 }
 h1 {
   position: absolute;
   font-size: 72px;
   font-weight: bold;
-  bottom: 23%;
+  bottom: 32%;
   width: 50%;
   margin: 0 0 0 0;
 }
